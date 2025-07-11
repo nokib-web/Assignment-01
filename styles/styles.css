@@ -202,3 +202,52 @@ textarea{
 
 }
 
+
+/*footer section style*/
+
+
+.footer-link ul li a{
+   text-decoration: none;
+   color: #8987A1;
+   font-size: 15px;
+   margin: 20px;
+   transition: 0.5s;
+   opacity: 0.7;
+   
+}
+.footer-link ul li{
+   list-style: none;
+   
+}
+.footer-link ul{
+   display: flex;
+   justify-content: center
+   ;
+}
+.footer-link ul li a:hover{
+   opacity: 1;
+}
+
+.footer-title{
+   font-size: 100px;
+   font-weight: bold;
+   text-align: center;
+   color: #4E47FF;
+
+}
+
+.footer-description{
+   font-size: 20px;
+   text-align: center;
+   color: #8987A1;
+   margin-top: 20px;
+}
+footer{
+   width: 100%;
+   height: 428px;
+   text-align: center;
+   padding: 20px
+}
+
+
+
