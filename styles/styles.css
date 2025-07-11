@@ -163,3 +163,42 @@
 
  }
 
+ /* get in touch style*/
+ .get-form{
+   display: block;
+   align-items: center;
+   gap:50px;
+   
+  
+ }
+ .get-in-touch{
+   display: flex;
+   margin-top: 92px;
+   margin-bottom: 80px;
+   padding: 20px;
+   justify-content:space-around
+   
+
+ }
+ .get-title{
+   align-items: center;
+   font-size: 70px;
+   font-weight: bold;
+ }
+
+input{
+   height: 50px;
+   width: 100%;
+   border-radius: 10px;
+   gap: 100px;
+   background-color: white;
+   border: #0a0609;
+   
+}
+textarea{
+   background-color: white;
+   border-radius:10px ;
+   border: #0f090e;
+
+}
+
